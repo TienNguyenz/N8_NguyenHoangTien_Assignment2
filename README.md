@@ -41,6 +41,3 @@ How to run code:
     3. A play icon will appear next to the name of each test function.
     4. Click the play icon next to the function you want to test to run it individually.
 
----
-
-This version maintains the core details while rephrasing some parts for better clarity. Let me know if you'd like further changes!
